@@ -6,8 +6,8 @@
 🔎 Past work on researching 😑 facial emotion recognition in affective disorders, 📍 navigation in virtual reality in at-risk Alzheimer’s patients, and 🤯 analysing fMRI, EEG, and large datasets using MATLAB, R, and SPM.<br/>
 🎓 BSc in Psychology (🏆 Carthy Prize, 2023), 🧠 MSc in Cognitive Neuroscience<br/>
 🌱 I’m currently learning advanced statistical modelling in R, analysing healthcare data using SQL,<br/>
-<pre class="and2">and conducting meta-analyses and systematic reviews with the London School of Hygiene and Tropical Medicine</pre><br/>
-📫 Reach me on email: abenkhel@ic.ac.uk<br/>
+and conducting meta-analyses and systematic reviews with the London School of Hygiene and Tropical Medicine><br/>
+<pre class="Reach2">📫 Reach me on email: abenkhel@ic.ac.uk</pre<br/>
 
 <p align="right"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
