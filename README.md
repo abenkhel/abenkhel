@@ -12,7 +12,7 @@ and conducting meta-analyses and systematic reviews at the London School of Hygi
 <p align="right"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
     <a href="https://orcid.org/0009-0007-9006-3222" target="_blank" rel="noreferrer"> <img src="https://orcid.org/sites/default/files/images/orcid_128x128.png" alt="ORCID iD" width="40" height="40" />
-      <a> href="https://scholar.google.fr/citations?user=l5am32MAAAAJ&hl=en&oi=ao"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1200px-Google_Scholar_logo.svg.png" alt="GoogleScholar" width="40" height="40" />
+      <a href="https://scholar.google.fr/citations?user=l5am32MAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/download/science/63222-google-scholar-doctor-science-university-philosophy-computer.png" alt="GoogleScholar" width="40" height="40" />
    </a> </p>
 
 <picture>
