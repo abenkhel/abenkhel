@@ -1,4 +1,4 @@
-<img src="https://github.com/abenkhel/abenkhel/blob/main/copying2.gif" width="100%" height="150"/>
+<img src="https://github.com/abenkhel/abenkhel/blob/main/Banner.gif" width="100%" height="150"/>
 <h2 align="center">Hi👋🏻, I'm Amina Benkhelfa</h1>
 <h3 align="center">Researcher in public health</h3>
 
