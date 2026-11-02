@@ -2,10 +2,10 @@
 <h2 align="center">Hi👋🏻, I'm Amina Benkhelfa</h1>
 <h3 align="center">Researcher in public health</h3>
 
-🔭 I’m currently working on the Health and Activity of Pupils in the Primary Years [(HAPPY) study](https://www.imperial.ac.uk/school-public-health/primary-care-and-public-health/research/child-health-unit/the-happy-study/) at the Imperial Faculty of Medicine and the [EM-BODY](https://embodystudy.wixsite.com/em-body) study on interoception. <br/>
+🔭 I’m currently working on the Health and Activity of Pupils in the Primary Years [(HAPPY) study](https://www.imperial.ac.uk/school-public-health/primary-care-and-public-health/research/child-health-unit/the-happy-study/) at the Imperial Faculty of Medicine and the [EM-BODY](https://embodystudy.wixsite.com/em-body) study on interoception at the UCL Institute of Cognitive Neuroscience. <br/>
 🔎 Past work on researching 😑 facial emotion recognition in affective disorders, 📍 navigation in virtual reality in at-risk Alzheimer’s patients, and 🤯 analysing fMRI, EEG, and large datasets using MATLAB, R, and SPM.<br/>
 🎓 BSc in Psychology (🏆 Carthy Prize, 2023), 🧠 MSc in Cognitive Neuroscience<br/>
-🌱 I’m currently learning Python.<br/>
+🌱 I’m currently learning Python<br/>
 <pre>📫 Reach me on email: abenkhel@ic.ac.uk</pre><br/>
 
 <p align="right"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
