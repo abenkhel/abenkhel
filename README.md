@@ -1,6 +1,6 @@
 <img src="https://github.com/abenkhel/abenkhel/blob/main/Banner.gif" width="100%" height="150"/>
 <h2 align="center">Hi👋🏻, I'm Amina Benkhelfa</h1>
-<h3 align="center">Researcher in public health</h3>
+<h3 align="center">Researcher in Public Health and Clinical and Affective Neuroscience</h3>
 
 🔭 I’m currently working on the Health and Activity of Pupils in the Primary Years [(HAPPY) study](https://www.imperial.ac.uk/school-public-health/primary-care-and-public-health/research/child-health-unit/the-happy-study/) at the Imperial Faculty of Medicine and the [EM-BODY](https://embodystudy.wixsite.com/em-body) study on interoception at the UCL Institute of Cognitive Neuroscience. <br/>
 🔎 Past work on researching 😑 facial emotion recognition in affective disorders, 📍 navigation in virtual reality in at-risk Alzheimer’s patients, and 🤯 analysing fMRI, EEG, and large datasets using MATLAB, R, and SPM.<br/>
